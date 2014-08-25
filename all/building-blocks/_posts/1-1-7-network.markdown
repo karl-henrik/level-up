@@ -2,5 +2,5 @@
 layout: post
 title: Write a networking client (e.g., HTTP, FTP)
 status: todo
-time: Not Started
+time: Not started
 ---
