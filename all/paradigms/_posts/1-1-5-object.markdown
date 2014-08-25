@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Write an application in an object-oriented language
-status: Todo
+status: todo
 time: Not started
 ---
