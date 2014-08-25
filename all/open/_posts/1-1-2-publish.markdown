@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Publish an open source project
-status: done
-time: 2010/9
+status: todo
+time: Not started
 ---
-
-[A WILD GITHUB APPEARS](https://github.com/thenoviceoof)
