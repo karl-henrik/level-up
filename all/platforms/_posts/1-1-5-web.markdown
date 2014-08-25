@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Write a nontrivial web app
-status: done
-time: 2009
+status: todo
+time: Not started
 ---
-
-[ELZO](http://thenoviceoof.com/blog/projects/ezlo/) at
-[UPS](http://www.pugetsound.edu/), written in Rails 2.0 or something
-like that.
