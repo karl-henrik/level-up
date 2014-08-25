@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Contribute to an open source project
-status: done
-time: 2012/07
+status: todo
+time: Not started
 ---
-Contributed a --change-password option to selfspy
