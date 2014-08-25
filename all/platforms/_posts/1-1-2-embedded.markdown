@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Write an embedded app
-status: wip
-time: 2010
+status: todo
+time: Not started
 ---
 
 During a [summer robotics
