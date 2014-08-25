@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Write a program in assembly language
-status: Todo
+status: todo
 time: Not started
 ---
